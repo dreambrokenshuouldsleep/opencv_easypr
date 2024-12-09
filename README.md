@@ -1,0 +1,2 @@
+# opencv_easypr
+基于opencv和easypr的智能停车场系统
